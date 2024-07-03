@@ -34,6 +34,6 @@ Languages used:
  The main purpose of CSS code is to style and design web pages created using HTML.. 
  The main purpose of Javascript is to add interactivity and dynamic behaviour to web pages.It allows you to create responsive elements like animations,pop-ups etc..
 
-![Screenshot (8)](https://github.com/Siri1916/CODETECH-Task2/assets/174416911/4ccc8a48-e5b7-42e0-9e11-5a4929c32990)
+![Screenshot (7)](https://github.com/Siri1916/CODETECH-Task2/assets/174416911/eb2ff73b-5648-4f9d-beb0-3887daee0d1f)
 
 
